@@ -1,4 +1,4 @@
-
+{ "data": [
 {
   "subject": "Anfrage zu Mietkonditionen",
   "sender_email": "hans.schmidt@example.com",
@@ -6,7 +6,7 @@
   "time": "14:45",
   "message": "Sehr geehrtes Vermietungsteam,\n\nich interessiere mich für die Mietwohnung in der Hauptstraße 5 und möchte gerne nähere Informationen zu den Mietkonditionen erhalten. Könnten Sie mir bitte Auskunft geben über die monatliche Miete, Nebenkosten und eventuelle Kaution?\n\nVielen Dank im Voraus und mit freundlichen Grüßen,\nHans Schmidt"
 }
-
+,
 {
     "subject": "Anfrage zu verfügbaren Wohnungen",
     "sender_email": "sabine.schmidt@example.com",
@@ -14,7 +14,7 @@
     "time": "09:30",
     "message": "Sehr geehrtes Team,\n\nich interessiere mich für Wohnungen in der Umgebung von Zürich und würde gerne wissen, ob Sie derzeit freie Objekte zur Verfügung haben. Ich suche eine 2- bis 3-Zimmer-Wohnung mit Balkon und Parkmöglichkeiten. Könnten Sie mir bitte Informationen zu den verfügbaren Wohnungen sowie Mietpreisen und Bedingungen zusenden?\n\nVielen Dank im Voraus und beste Grüße,\nSabine Schmidt"
   }
-  
+  ,
   {
     "subject": "Anfrage zu einer verfügbaren Wohnung",
     "sender_email": "sophia.schneider@example.com",
@@ -22,7 +22,7 @@
     "time": "10:30",
     "message": "Sehr geehrte Damen und Herren,\n\nich interessiere mich für eine Wohnung in der Nähe des Zürichsees. Könnten Sie mir bitte Informationen zu verfügbaren Wohnungen in der Gegend zusenden? Ich suche eine 3-Zimmer-Wohnung mit Balkon und Parkmöglichkeiten. Wenn möglich, wäre ich auch an Bildern der Wohnungen interessiert.\n\nVielen Dank im Voraus.\n\nMit freundlichen Grüßen,\nSophia Schneider"
   }
-
+,
   {
     "subject": "Anfrage zu Mietkonditionen",
     "sender_email": "max.mustermann@example.com",
@@ -30,7 +30,7 @@
     "time": "14:15",
     "message": "Sehr geehrtes Team,\n\nich interessiere mich für eine Wohnung in der Innenstadt von Zürich. Könnten Sie mir bitte weitere Informationen zu den Mietkonditionen und den monatlichen Kosten zusenden? Ich würde gerne wissen, ob Nebenkosten wie Strom, Wasser und Heizung in der Miete enthalten sind.\n\nVielen Dank und freundliche Grüße,\nMax Mustermann"
   }
-
+,
 
   {
         "subject": "Anfrage zu verfügbaren Wohnungen",
@@ -39,7 +39,7 @@
         "time": "09:15",
         "message": "Sehr geehrte Damen und Herren,\n\nich bin auf der Suche nach einer Wohnung zur Miete in Zürich und habe erfahren, dass Sie entsprechende Angebote haben. Könnten Sie mir bitte Informationen zu den verfügbaren Wohnungen zusenden? Ich interessiere mich für 2-3 Zimmer Wohnungen in zentraler Lage. Es wäre auch hilfreich, wenn Sie mir Angaben zu den Mietkosten, Nebenkosten und eventuellen Extras machen könnten.\n\nVielen Dank im Voraus und mit freundlichen Grüßen,\nMax Mustermann"
       }
-      
+      ,
       {
         "subject": "Anfrage zu verfügbaren Wohnungen",
         "sender_email": "anna.schmidt@example.com",
@@ -48,7 +48,7 @@
         "message": "Sehr geehrte Damen und Herren,\n\nich bin auf der Suche nach einer Wohnung zur Miete in Zürich und habe erfahren, dass Sie entsprechende Angebote haben. Könnten Sie mir bitte Informationen zu den verfügbaren Wohnungen zusenden? Ich interessiere mich für 2-3 Zimmer Wohnungen in zentraler Lage. Es wäre auch hilfreich, wenn Sie mir Angaben zu den Mietkosten, Nebenkosten und eventuellen Extras machen könnten.\n\nVielen Dank im Voraus und mit freundlichen Grüßen,\nAnna Schmidt"
       }
       
-
+,
       {
         "subject": "Information über Mietkonditionen anfordern",
         "sender_email": "martin.meier@example.com",
@@ -56,7 +56,7 @@
         "time": "09:30",
         "message": "Sehr geehrtes Vermietungsteam,\n\nich interessiere mich für die Wohnung in der Musterstraße 5 und würde gerne nähere Informationen zu den Mietkonditionen erhalten. Könnten Sie mir bitte mitteilen, welche monatliche Miete anfällt und ob Nebenkosten zu berücksichtigen sind? Zudem würde mich interessieren, ob eine Kaution erforderlich ist und ob Haustiere erlaubt sind. Vielen Dank im Voraus für Ihre Auskunft.\n\nFreundliche Grüße,\nMartin Meier"
       }
-      
+      ,
       {
         "subject": "Objektanfrage - Wohnung in Zürich",
         "sender_email": "max.mustermann@example.com",
@@ -64,7 +64,7 @@
         "time": "10:30",
         "message": "Sehr geehrtes Team,\n\nich bin an der Wohnung in der Musterstraße 5 in Zürich interessiert und würde gerne weitere Informationen erhalten. Könnten Sie mir bitte mitteilen, ob die Wohnung noch verfügbar ist und welche Mietkonditionen gelten? Des Weiteren würde ich gerne einen Besichtigungstermin vereinbaren, um mir die Wohnung persönlich anzusehen.\n\nVielen Dank im Voraus.\n\nMit freundlichen Grüßen,\nMax Mustermann"
       }
-      
+      ,
       {
         "subject": "Anfrage: Gewerbefläche in Zürich",
         "sender_email": "lisa.meier@example.com",
@@ -72,7 +72,7 @@
         "time": "14:45",
         "message": "Guten Tag,\n\nich interessiere mich für die Gewerbefläche in der Musterstraße 10 in Zürich. Könnten Sie mir bitte Informationen zu den verfügbaren Flächen, Mietpreisen und Vertragsbedingungen zukommen lassen? Außerdem wäre es hilfreich, wenn Sie mir Bilder oder Pläne der Räumlichkeiten zur Verfügung stellen könnten.\n\nVielen Dank und freundliche Grüße,\nLisa Meier"
       }
-
+,
       {
         "subject": "Anfrage: Wohnungssuche in Zürich",
         "sender_email": "max.mueller@example.com",
@@ -80,7 +80,7 @@
         "time": "10:30",
         "message": "Sehr geehrte Damen und Herren,\n\nich bin auf der Suche nach einer Wohnung in Zürich und habe von Ihrem Unternehmen gehört. Könnten Sie mir bitte Informationen zu den verfügbaren Mietwohnungen, deren Ausstattung, Lage und Mietkonditionen zusenden? Ich bin besonders an Wohnungen mit 2-3 Zimmern interessiert. Gerne können Sie mir auch Besichtigungstermine vorschlagen.\n\nVielen Dank im Voraus!\n\nMit freundlichen Grüßen,\nMax Müller"
       }
-      
+     , 
       {
         "subject": "Anfrage: Wohnungssuche in Zürich",
         "sender_email": "lisa.schneider@example.com",
@@ -88,7 +88,7 @@
         "time": "14:45",
         "message": "Sehr geehrtes Team,\n\nich bin auf der Suche nach einer Wohnung in Zürich und habe gehört, dass Sie spezialisiert auf Immobilien in dieser Region sind. Könnten Sie mir bitte Informationen zu verfügbaren Wohnungen, deren Anzahl der Zimmer, Mietpreise und Lage geben? Ich interessiere mich insbesondere für möblierte Wohnungen mit Balkon. Es wäre auch hilfreich, wenn Sie mir Bilder der Wohnungen zusenden könnten.\n\nVielen Dank und freundliche Grüße,\nLisa Schneider"
       }
-      
+      ,
       {
         "subject": "Anfrage: Bürofläche in Zürich",
         "sender_email": "daniel.mustermann@example.com",
@@ -96,7 +96,7 @@
         "time": "10:30",
         "message": "Sehr geehrtes Team,\n\nwir sind auf der Suche nach einer geeigneten Bürofläche für unser Unternehmen in Zürich. Bitte senden Sie uns Informationen zu verfügbaren Büroflächen, deren Größe, Ausstattung und Mietkosten. Wir benötigen Platz für etwa 10-15 Mitarbeiter und wünschen uns einen Standort in zentraler Lage mit guter Anbindung an öffentliche Verkehrsmittel. Gerne vereinbaren wir auch einen Besichtigungstermin, um uns die Räumlichkeiten genauer anzusehen.\n\nVielen Dank im Voraus!\n\nMit freundlichen Grüßen,\nMax Mustermann"
       }
-      
+      ,
       {
         "subject": "Anfrage: Gewerbefläche in Zürich",
         "sender_email": "anna.musterfrau@example.com",
@@ -104,7 +104,7 @@
         "time": "14:00",
         "message": "Sehr geehrtes Team,\n\nwir sind ein kleines Start-up-Unternehmen und auf der Suche nach einer geeigneten Gewerbefläche in Zürich. Unsere Anforderungen beinhalten eine Fläche von ca. 100-150 Quadratmetern, ausreichend Parkmöglichkeiten für Mitarbeiter und Kunden sowie eine gute Infrastruktur in der Umgebung. Bitte senden Sie uns Informationen zu verfügbaren Gewerbeflächen, Mietkonditionen und Möglichkeiten zur Vertragslaufzeit. Wir würden uns freuen, wenn wir einen Besichtigungstermin vereinbaren könnten, um uns die Räumlichkeiten genauer anzuschauen.\n\nVielen Dank und freundliche Grüße,\nAnna Musterfrau"
       }
-      
+     , 
       {
         "subject": "Anfrage: Bürofläche in Zürich Altstadt",
         "sender_email": "max.mustermann@example.com",
@@ -113,7 +113,7 @@
         "message": "Sehr geehrtes Team,\n\nich bin auf der Suche nach einer Bürofläche in der Zürich Altstadt für mein Unternehmen. Die Fläche sollte ca. 200-250 Quadratmeter umfassen und über ausreichend Platz für mehrere Arbeitsplätze, Besprechungsräume und eine Teeküche verfügen. Idealerweise befindet sich das Büro in zentraler Lage mit guter Anbindung an öffentliche Verkehrsmittel. Bitte lassen Sie mich wissen, ob Sie aktuell entsprechende Angebote haben und wie die Mietkonditionen aussehen. Gerne würde ich auch einen Besichtigungstermin vereinbaren, um mir die Räumlichkeiten genauer anzuschauen.\n\nVielen Dank und mit freundlichen Grüßen,\nMax Mustermann"
       }
       
-
+,
       {
         "subject": "Anfrage: Gewerbefläche für Café in Zürich",
         "sender_email": "lisa.musterfrau@example.com",
@@ -122,7 +122,7 @@
         "message": "Sehr geehrtes Team,\n\nich plane die Eröffnung eines Cafés in Zürich und bin auf der Suche nach einer passenden Gewerbefläche. Die Fläche sollte eine Größe von etwa 100 Quadratmetern haben und über ausreichend Platz für Sitzgelegenheiten, Theke, Küche und Lager verfügen. Ideal wäre eine Lage in einer belebten Fußgängerzone oder in der Nähe von Bürogebäuden. Bitte lassen Sie mich wissen, ob Sie entsprechende Objekte in Ihrem Portfolio haben und welche Mietkonditionen gelten. Gerne würde ich auch einen Termin vereinbaren, um die Räumlichkeiten persönlich zu besichtigen.\n\nVielen Dank und freundliche Grüße,\nLisa Musterfrau"
       }
 
-      
+   ,   
       {
         "subject": "Anfrage: Wohnungsbesichtigung in Zürich",
         "sender_email": "max.mustermann@example.com",
@@ -130,7 +130,7 @@
         "time": "09:30",
         "message": "Sehr geehrtes Team,\n\nich bin auf der Suche nach einer Wohnung in Zürich und habe Interesse an einer Besichtigung. Die Wohnung sollte über zwei Schlafzimmer, ein helles Wohnzimmer, eine moderne Küche und ein Badezimmer mit Badewanne verfügen. Balkon oder Terrasse wären ebenfalls wünschenswert. Bitte teilen Sie mir mit, ob Sie entsprechende Wohnungen in Ihrem Bestand haben und ob eine Besichtigung möglich ist. Gerne würde ich auch weitere Informationen zu den Mietkonditionen und zur Verfügbarkeit erhalten.\n\nVielen Dank und freundliche Grüße,\nMax Mustermann"
       }
-
+,
       
       {
         "subject": "Anfrage: Möblierte Wohnung in Zürich",
@@ -139,7 +139,7 @@
         "time": "14:00",
         "message": "Guten Tag,\n\nich bin auf der Suche nach einer möblierten Wohnung in Zürich für einen befristeten Zeitraum von sechs Monaten. Die Wohnung sollte über ein Schlafzimmer, eine gut ausgestattete Küche und ein helles Wohnzimmer verfügen. Idealerweise wäre sie zentral gelegen und gut an den öffentlichen Nahverkehr angebunden. Bitte teilen Sie mir mit, ob Sie entsprechende Angebote haben und ob eine Besichtigung möglich ist. Ich freue mich auf Ihre Rückmeldung.\n\nViele Grüße,\nLisa Musterfrau"
       }
-
+,
       {
         "subject": "Anfrage: Studio-Apartment in Zürich-West",
         "sender_email": "max.mustermann@example.com",
@@ -147,7 +147,7 @@
         "time": "10:30",
         "message": "Sehr geehrtes Team,\n\nich interessiere mich für ein Studio-Apartment in Zürich-West. Die Wohnung sollte über eine moderne Ausstattung, eine gute Verkehrsanbindung und eine ruhige Lage verfügen. Ich benötige die Wohnung ab dem 1. August für einen Zeitraum von mindestens einem Jahr. Könnten Sie mir bitte Informationen zu verfügbaren Optionen und Mietkonditionen zusenden? Gerne würde ich auch einen Besichtigungstermin vereinbaren.\n\nMit freundlichen Grüßen,\nMax Mustermann"
       }
-      
+    ,  
       {
         "subject": "Suche nach einem Einfamilienhaus in Zürich",
         "sender_email": "lisa.beispiel@example.com",
@@ -155,7 +155,7 @@
         "time": "14:45",
         "message": "Guten Tag,\n\nich bin auf der Suche nach einem Einfamilienhaus in Zürich und möchte gerne Informationen zu verfügbaren Optionen erhalten. Das Haus sollte über mindestens drei Schlafzimmer, einen Garten und eine Garage verfügen. Eine gute Anbindung an öffentliche Verkehrsmittel und Einkaufsmöglichkeiten wäre ebenfalls wichtig. Könnten Sie mir bitte eine Liste der verfügbaren Häuser zusenden und mir weitere Informationen zu den Miet- oder Kaufkonditionen geben?\n\nVielen Dank im Voraus!\nLisa Beispiel"
       }
-      
+     , 
       {
         "subject": "Anfrage zu einer möblierten Wohnung in Zürich",
         "sender_email": "max.mustermann@example.com",
@@ -163,7 +163,7 @@
         "time": "15:20",
         "message": "Sehr geehrtes Team,\n\nich bin auf der Suche nach einer möblierten Wohnung in Zürich für einen Zeitraum von drei Monaten. Die Wohnung sollte über ein Schlafzimmer, ein Wohnzimmer und eine voll ausgestattete Küche verfügen. Zudem wäre es wünschenswert, wenn sich die Wohnung in der Nähe von öffentlichen Verkehrsmitteln befindet und gute Einkaufsmöglichkeiten in der Umgebung vorhanden sind. Könnten Sie mir bitte Informationen zu verfügbaren Wohnungen, Mietkosten und dem genauen Standort zusenden?\n\nVielen Dank im Voraus!\nMax Mustermann"
       }
-    
+    ,
       {
         "subject": "Suche nach einer Gewerbeimmobilie in Zürich",
         "sender_email": "lisa.meier@example.com",
@@ -171,4 +171,5 @@
         "time": "16:45",
         "message": "Sehr geehrtes Team,\n\nich plane die Eröffnung eines neuen Geschäfts in Zürich und bin auf der Suche nach einer passenden Gewerbeimmobilie. Die Immobilie sollte über ausreichend Platz für Büro- und Lagerflächen verfügen und gut erreichbar sein. Zudem wäre es hilfreich, wenn Parkmöglichkeiten in der Nähe vorhanden sind. Könnten Sie mir bitte Informationen zu verfügbaren Gewerbeimmobilien, Mietkosten und Lagevorteilen zusenden?\n\nVielen Dank und freundliche Grüße,\nLisa Meier"
       }
-      
+    ]
+      }
