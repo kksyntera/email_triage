@@ -15,4 +15,4 @@ Dieses Repository enthält den Code für das E-Mail-Triage-Projekt, bei dem E-Ma
 1. Klonen Sie das Repository:
 
    ```shell
-   git clone https://github.com/your-username/email-triage.git
+   git clone https://github.com/kksyntera/email-triage.git
