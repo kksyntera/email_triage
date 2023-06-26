@@ -1,4 +1,4 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Syntera Workhop ♥️ 
 
 # E-Mail-Triage-Code
 
