@@ -1,7 +1,18 @@
 # GitHub Codespaces ♥️ Jupyter Notebooks
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+# E-Mail-Triage-Code
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+Dieses Repository enthält den Code für das E-Mail-Triage-Projekt, bei dem E-Mails anhand ihrer Kategorien klassifiziert und zusammengefasst werden.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+## Vorraussetzungen
+
+- GitHub-Account (https://github.com/)
+- GitHub Codespace (https://github.com/features/codespaces)
+- OpenAI API-Schlüssel (https://openai.com)
+
+## Nutzung
+
+1. Klonen Sie das Repository:
+
+   ```shell
+   git clone https://github.com/kksyntera/email-triage.git
