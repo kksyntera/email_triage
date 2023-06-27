@@ -7,8 +7,7 @@ Dieses Repository enthält den Code für das E-Mail-Triage-Projekt, bei dem E-Ma
 ## Vorraussetzungen
 
 - GitHub-Account (https://github.com/)
-- GitHub Codespace (https://github.com/features/codespaces)
-- OpenAI API-Schlüssel (https://openai.com)
+- OpenAI API-Schlüssel (https://openai.com) (Wird von Syntera für den WS bereitgestellt)
 
 ## Nutzung
 
