@@ -1,0 +1,193 @@
+{
+    "data": [
+        {
+            "subject": "Anfrage zu Mietkonditionen",
+            "sender_email": "hans.schmidt@example.com",
+            "date": "2023-06-15",
+            "time": "14:45",
+            "message": "Sehr geehrtes Vermietungsteam,\n\nich interessiere mich f\u00fcr die Mietwohnung in der Hauptstra\u00dfe 5 und m\u00f6chte gerne n\u00e4here Informationen zu den Mietkonditionen erhalten. K\u00f6nnten Sie mir bitte Auskunft geben \u00fcber die monatliche Miete, Nebenkosten und eventuelle Kaution?\n\nVielen Dank im Voraus und mit freundlichen Gr\u00fc\u00dfen,\nHans Schmidt",
+            "summary": "- Interesse an Mietwohnung in der Hauptstra\u00dfe 5\n- N\u00e4here Informationen zu Mietkonditionen erhalten\n- Auskunft \u00fcber monatliche Miete, Nebenkosten und eventuelle Kaution erbeten",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Anfrage zu verf\u00fcgbaren Wohnungen",
+            "sender_email": "sabine.schmidt@example.com",
+            "date": "2023-06-20",
+            "time": "09:30",
+            "message": "Sehr geehrtes Team,\n\nich interessiere mich f\u00fcr Wohnungen in der Umgebung von Z\u00fcrich und w\u00fcrde gerne wissen, ob Sie derzeit freie Objekte zur Verf\u00fcgung haben. Ich suche eine 2- bis 3-Zimmer-Wohnung mit Balkon und Parkm\u00f6glichkeiten. K\u00f6nnten Sie mir bitte Informationen zu den verf\u00fcgbaren Wohnungen sowie Mietpreisen und Bedingungen zusenden?\n\nVielen Dank im Voraus und beste Gr\u00fc\u00dfe,\nSabine Schmidt",
+            "summary": "- Anfrage nach verf\u00fcgbaren Wohnungen in der Umgebung von Z\u00fcrich\n- Suche nach einer 2- bis 3-Zimmer-Wohnung mit Balkon und Parkm\u00f6glichkeiten\n- Anfrage nach Informationen zu Mietpreisen und Bedingungen",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Anfrage zu einer verf\u00fcgbaren Wohnung",
+            "sender_email": "sophia.schneider@example.com",
+            "date": "2023-06-21",
+            "time": "10:30",
+            "message": "Sehr geehrte Damen und Herren,\n\nich interessiere mich f\u00fcr eine Wohnung in der N\u00e4he des Z\u00fcrichsees. K\u00f6nnten Sie mir bitte Informationen zu verf\u00fcgbaren Wohnungen in der Gegend zusenden? Ich suche eine 3-Zimmer-Wohnung mit Balkon und Parkm\u00f6glichkeiten. Wenn m\u00f6glich, w\u00e4re ich auch an Bildern der Wohnungen interessiert.\n\nVielen Dank im Voraus.\n\nMit freundlichen Gr\u00fc\u00dfen,\nSophia Schneider",
+            "summary": "- Interesse an einer Wohnung in der N\u00e4he des Z\u00fcrichsees\n- Informationen zu verf\u00fcgbaren Wohnungen in der Gegend anfordern\n- 3-Zimmer-Wohnung mit Balkon und Parkm\u00f6glichkeiten gesucht\n- Bilder der Wohnungen w\u00fcnschenswert",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Anfrage zu Mietkonditionen",
+            "sender_email": "max.mustermann@example.com",
+            "date": "2023-06-23",
+            "time": "14:15",
+            "message": "Sehr geehrtes Team,\n\nich interessiere mich f\u00fcr eine Wohnung in der Innenstadt von Z\u00fcrich. K\u00f6nnten Sie mir bitte weitere Informationen zu den Mietkonditionen und den monatlichen Kosten zusenden? Ich w\u00fcrde gerne wissen, ob Nebenkosten wie Strom, Wasser und Heizung in der Miete enthalten sind.\n\nVielen Dank und freundliche Gr\u00fc\u00dfe,\nMax Mustermann",
+            "summary": "- Interesse an einer Wohnung in der Innenstadt von Z\u00fcrich\n- Weitere Informationen zu den Mietkonditionen und den monatlichen Kosten werden angefordert\n- Frage nach Nebenkosten wie Strom, Wasser und Heizung in der Miete",
+            "predicted_category": "Informationsanfragen"
+        },
+        {
+            "subject": "Anfrage zu verf\u00fcgbaren Wohnungen",
+            "sender_email": "phil.mustermann@example.com",
+            "date": "2023-06-20",
+            "time": "09:15",
+            "message": "Sehr geehrte Damen und Herren,\n\nich bin auf der Suche nach einer Wohnung zur Miete in Z\u00fcrich und habe erfahren, dass Sie entsprechende Angebote haben. K\u00f6nnten Sie mir bitte Informationen zu den verf\u00fcgbaren Wohnungen zusenden? Ich interessiere mich f\u00fcr 2-3 Zimmer Wohnungen in zentraler Lage. Es w\u00e4re auch hilfreich, wenn Sie mir Angaben zu den Mietkosten, Nebenkosten und eventuellen Extras machen k\u00f6nnten.\n\nVielen Dank im Voraus und mit freundlichen Gr\u00fc\u00dfen,\nMax Mustermann",
+            "summary": "- Anfrage nach verf\u00fcgbaren Wohnungen zur Miete in Z\u00fcrich\n- Interesse an 2-3 Zimmer Wohnungen in zentraler Lage\n- Bitte um Informationen zu Mietkosten, Nebenkosten und eventuellen Extras",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Anfrage zu verf\u00fcgbaren Wohnungen",
+            "sender_email": "anna.schmidt@example.com",
+            "date": "2023-06-20",
+            "time": "09:15",
+            "message": "Sehr geehrte Damen und Herren,\n\nich bin auf der Suche nach einer Wohnung zur Miete in Z\u00fcrich und habe erfahren, dass Sie entsprechende Angebote haben. K\u00f6nnten Sie mir bitte Informationen zu den verf\u00fcgbaren Wohnungen zusenden? Ich interessiere mich f\u00fcr 2-3 Zimmer Wohnungen in zentraler Lage. Es w\u00e4re auch hilfreich, wenn Sie mir Angaben zu den Mietkosten, Nebenkosten und eventuellen Extras machen k\u00f6nnten.\n\nVielen Dank im Voraus und mit freundlichen Gr\u00fc\u00dfen,\nAnna Schmidt",
+            "summary": "- Anfrage nach verf\u00fcgbaren Wohnungen zur Miete in Z\u00fcrich\n- Interesse an 2-3 Zimmer Wohnungen in zentraler Lage\n- Bitte um Informationen zu Mietkosten, Nebenkosten und Extras",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Information \u00fcber Mietkonditionen anfordern",
+            "sender_email": "martin.meier@example.com",
+            "date": "2023-06-15",
+            "time": "09:30",
+            "message": "Sehr geehrtes Vermietungsteam,\n\nich interessiere mich f\u00fcr die Wohnung in der Musterstra\u00dfe 5 und w\u00fcrde gerne n\u00e4here Informationen zu den Mietkonditionen erhalten. K\u00f6nnten Sie mir bitte mitteilen, welche monatliche Miete anf\u00e4llt und ob Nebenkosten zu ber\u00fccksichtigen sind? Zudem w\u00fcrde mich interessieren, ob eine Kaution erforderlich ist und ob Haustiere erlaubt sind. Vielen Dank im Voraus f\u00fcr Ihre Auskunft.\n\nFreundliche Gr\u00fc\u00dfe,\nMartin Meier",
+            "summary": "- Interesse an Wohnung in der Musterstra\u00dfe 5\n- N\u00e4here Informationen zu Mietkonditionen erhalten\n- Monatliche Miete\n- Nebenkosten\n- Kaution erforderlich?\n- Haustiere erlaubt?",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Objektanfrage - Wohnung in Z\u00fcrich",
+            "sender_email": "max.mustermann@example.com",
+            "date": "2023-06-12",
+            "time": "10:30",
+            "message": "Sehr geehrtes Team,\n\nich bin an der Wohnung in der Musterstra\u00dfe 5 in Z\u00fcrich interessiert und w\u00fcrde gerne weitere Informationen erhalten. K\u00f6nnten Sie mir bitte mitteilen, ob die Wohnung noch verf\u00fcgbar ist und welche Mietkonditionen gelten? Des Weiteren w\u00fcrde ich gerne einen Besichtigungstermin vereinbaren, um mir die Wohnung pers\u00f6nlich anzusehen.\n\nVielen Dank im Voraus.\n\nMit freundlichen Gr\u00fc\u00dfen,\nMax Mustermann",
+            "summary": "- Interesse an der Wohnung in der Musterstra\u00dfe 5 in Z\u00fcrich\n- Informationen \u00fcber Verf\u00fcgbarkeit und Mietkonditionen erhalten\n- Besichtigungstermin vereinbaren",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Anfrage: Gewerbefl\u00e4che in Z\u00fcrich",
+            "sender_email": "lisa.meier@example.com",
+            "date": "2023-06-15",
+            "time": "14:45",
+            "message": "Guten Tag,\n\nich interessiere mich f\u00fcr die Gewerbefl\u00e4che in der Musterstra\u00dfe 10 in Z\u00fcrich. K\u00f6nnten Sie mir bitte Informationen zu den verf\u00fcgbaren Fl\u00e4chen, Mietpreisen und Vertragsbedingungen zukommen lassen? Au\u00dferdem w\u00e4re es hilfreich, wenn Sie mir Bilder oder Pl\u00e4ne der R\u00e4umlichkeiten zur Verf\u00fcgung stellen k\u00f6nnten.\n\nVielen Dank und freundliche Gr\u00fc\u00dfe,\nLisa Meier",
+            "summary": "- Interesse an Gewerbefl\u00e4che in der Musterstra\u00dfe 10 in Z\u00fcrich\n- Informationen zu verf\u00fcgbaren Fl\u00e4chen, Mietpreisen und Vertragsbedingungen\n- Bilder oder Pl\u00e4ne der R\u00e4umlichkeiten",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Anfrage: Wohnungssuche in Z\u00fcrich",
+            "sender_email": "max.mueller@example.com",
+            "date": "2023-06-18",
+            "time": "10:30",
+            "message": "Sehr geehrte Damen und Herren,\n\nich bin auf der Suche nach einer Wohnung in Z\u00fcrich und habe von Ihrem Unternehmen geh\u00f6rt. K\u00f6nnten Sie mir bitte Informationen zu den verf\u00fcgbaren Mietwohnungen, deren Ausstattung, Lage und Mietkonditionen zusenden? Ich bin besonders an Wohnungen mit 2-3 Zimmern interessiert. Gerne k\u00f6nnen Sie mir auch Besichtigungstermine vorschlagen.\n\nVielen Dank im Voraus!\n\nMit freundlichen Gr\u00fc\u00dfen,\nMax M\u00fcller",
+            "summary": "- Suche nach einer Wohnung in Z\u00fcrich\n- Informationen zu verf\u00fcgbaren Mietwohnungen, Ausstattung, Lage und Mietkonditionen\n- Interessiert an Wohnungen mit 2-3 Zimmern\n- Besichtigungstermine vorschlagen",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Anfrage: Wohnungssuche in Z\u00fcrich",
+            "sender_email": "lisa.schneider@example.com",
+            "date": "2023-06-23",
+            "time": "14:45",
+            "message": "Sehr geehrtes Team,\n\nich bin auf der Suche nach einer Wohnung in Z\u00fcrich und habe geh\u00f6rt, dass Sie spezialisiert auf Immobilien in dieser Region sind. K\u00f6nnten Sie mir bitte Informationen zu verf\u00fcgbaren Wohnungen, deren Anzahl der Zimmer, Mietpreise und Lage geben? Ich interessiere mich insbesondere f\u00fcr m\u00f6blierte Wohnungen mit Balkon. Es w\u00e4re auch hilfreich, wenn Sie mir Bilder der Wohnungen zusenden k\u00f6nnten.\n\nVielen Dank und freundliche Gr\u00fc\u00dfe,\nLisa Schneider",
+            "summary": "- Suche nach einer Wohnung in Z\u00fcrich\n- Informationen zu verf\u00fcgbaren Wohnungen (Anzahl der Zimmer, Mietpreise, Lage)\n- Interesse an m\u00f6blierten Wohnungen mit Balkon\n- Bitte um Zusendung von Bildern der Wohnungen",
+            "predicted_category": "Informationsanfragen"
+        },
+        {
+            "subject": "Anfrage: B\u00fcrofl\u00e4che in Z\u00fcrich",
+            "sender_email": "daniel.mustermann@example.com",
+            "date": "2023-06-24",
+            "time": "10:30",
+            "message": "Sehr geehrtes Team,\n\nwir sind auf der Suche nach einer geeigneten B\u00fcrofl\u00e4che f\u00fcr unser Unternehmen in Z\u00fcrich. Bitte senden Sie uns Informationen zu verf\u00fcgbaren B\u00fcrofl\u00e4chen, deren Gr\u00f6\u00dfe, Ausstattung und Mietkosten. Wir ben\u00f6tigen Platz f\u00fcr etwa 10-15 Mitarbeiter und w\u00fcnschen uns einen Standort in zentraler Lage mit guter Anbindung an \u00f6ffentliche Verkehrsmittel. Gerne vereinbaren wir auch einen Besichtigungstermin, um uns die R\u00e4umlichkeiten genauer anzusehen.\n\nVielen Dank im Voraus!\n\nMit freundlichen Gr\u00fc\u00dfen,\nMax Mustermann",
+            "summary": "- Suche nach geeigneter B\u00fcrofl\u00e4che in Z\u00fcrich\n- Informationen zu verf\u00fcgbaren B\u00fcrofl\u00e4chen (Gr\u00f6\u00dfe, Ausstattung, Mietkosten)\n- Platz f\u00fcr 10-15 Mitarbeiter\n- Standort in zentraler Lage mit guter Anbindung an \u00f6ffentliche Verkehrsmittel\n-",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Anfrage: Gewerbefl\u00e4che in Z\u00fcrich",
+            "sender_email": "anna.musterfrau@example.com",
+            "date": "2023-06-25",
+            "time": "14:00",
+            "message": "Sehr geehrtes Team,\n\nwir sind ein kleines Start-up-Unternehmen und auf der Suche nach einer geeigneten Gewerbefl\u00e4che in Z\u00fcrich. Unsere Anforderungen beinhalten eine Fl\u00e4che von ca. 100-150 Quadratmetern, ausreichend Parkm\u00f6glichkeiten f\u00fcr Mitarbeiter und Kunden sowie eine gute Infrastruktur in der Umgebung. Bitte senden Sie uns Informationen zu verf\u00fcgbaren Gewerbefl\u00e4chen, Mietkonditionen und M\u00f6glichkeiten zur Vertragslaufzeit. Wir w\u00fcrden uns freuen, wenn wir einen Besichtigungstermin vereinbaren k\u00f6nnten, um uns die R\u00e4umlichkeiten genauer anzuschauen.\n\nVielen Dank und freundliche Gr\u00fc\u00dfe,\nAnna Musterfrau",
+            "summary": "- Suche nach einer geeigneten Gewerbefl\u00e4che in Z\u00fcrich\n- Fl\u00e4che von ca. 100-150 Quadratmetern\n- Ausreichend Parkm\u00f6glichkeiten f\u00fcr Mitarbeiter und Kunden\n- Gute Infrastruktur in der Umgebung\n- Informationen zu verf\u00fcgbaren Gewerbefl\u00e4chen, Mietk",
+            "predicted_category": "Objektanfragen"
+        },
+        {
+            "subject": "Anfrage: B\u00fcrofl\u00e4che in Z\u00fcrich Altstadt",
+            "sender_email": "max.mustermann@example.com",
+            "date": "2023-06-26",
+            "time": "10:30",
+            "message": "Sehr geehrtes Team,\n\nich bin auf der Suche nach einer B\u00fcrofl\u00e4che in der Z\u00fcrich Altstadt f\u00fcr mein Unternehmen. Die Fl\u00e4che sollte ca. 200-250 Quadratmeter umfassen und \u00fcber ausreichend Platz f\u00fcr mehrere Arbeitspl\u00e4tze, Besprechungsr\u00e4ume und eine Teek\u00fcche verf\u00fcgen. Idealerweise befindet sich das B\u00fcro in zentraler Lage mit guter Anbindung an \u00f6ffentliche Verkehrsmittel. Bitte lassen Sie mich wissen, ob Sie aktuell entsprechende Angebote haben und wie die Mietkonditionen aussehen. Gerne w\u00fcrde ich auch einen Besichtigungstermin vereinbaren, um mir die R\u00e4umlichkeiten genauer anzuschauen.\n\nVielen Dank und mit freundlichen Gr\u00fc\u00dfen,\nMax Mustermann",
+            "summary": "- Suche nach einer B\u00fcrofl\u00e4che in der Z\u00fcrich Altstadt f\u00fcr mein Unternehmen\n- Fl\u00e4che sollte ca. 200-250 Quadratmeter umfassen\n- Ausreichend Platz f\u00fcr mehrere Arbeitspl\u00e4tze, Besprechungsr\u00e4ume und eine Teek\u00fcche\n- Idealerweise befindet sich das",
+            "predicted_category": "Objektanfragen"
+        },
+        {
+            "subject": "Anfrage: Gewerbefl\u00e4che f\u00fcr Caf\u00e9 in Z\u00fcrich",
+            "sender_email": "lisa.musterfrau@example.com",
+            "date": "2023-06-27",
+            "time": "14:15",
+            "message": "Sehr geehrtes Team,\n\nich plane die Er\u00f6ffnung eines Caf\u00e9s in Z\u00fcrich und bin auf der Suche nach einer passenden Gewerbefl\u00e4che. Die Fl\u00e4che sollte eine Gr\u00f6\u00dfe von etwa 100 Quadratmetern haben und \u00fcber ausreichend Platz f\u00fcr Sitzgelegenheiten, Theke, K\u00fcche und Lager verf\u00fcgen. Ideal w\u00e4re eine Lage in einer belebten Fu\u00dfg\u00e4ngerzone oder in der N\u00e4he von B\u00fcrogeb\u00e4uden. Bitte lassen Sie mich wissen, ob Sie entsprechende Objekte in Ihrem Portfolio haben und welche Mietkonditionen gelten. Gerne w\u00fcrde ich auch einen Termin vereinbaren, um die R\u00e4umlichkeiten pers\u00f6nlich zu besichtigen.\n\nVielen Dank und freundliche Gr\u00fc\u00dfe,\nLisa Musterfrau",
+            "summary": "- Suche nach einer Gewerbefl\u00e4che mit einer Gr\u00f6\u00dfe von ca. 100 Quadratmetern\n- Ausreichend Platz f\u00fcr Sitzgelegenheiten, Theke, K\u00fcche und Lager\n- Lage in einer belebten Fu\u00dfg\u00e4ngerzone oder in der N\u00e4he von B\u00fcrogeb\u00e4uden\n- Bitte lassen Sie m",
+            "predicted_category": "Objektanfragen"
+        },
+        {
+            "subject": "Anfrage: Wohnungsbesichtigung in Z\u00fcrich",
+            "sender_email": "max.mustermann@example.com",
+            "date": "2023-06-28",
+            "time": "09:30",
+            "message": "Sehr geehrtes Team,\n\nich bin auf der Suche nach einer Wohnung in Z\u00fcrich und habe Interesse an einer Besichtigung. Die Wohnung sollte \u00fcber zwei Schlafzimmer, ein helles Wohnzimmer, eine moderne K\u00fcche und ein Badezimmer mit Badewanne verf\u00fcgen. Balkon oder Terrasse w\u00e4ren ebenfalls w\u00fcnschenswert. Bitte teilen Sie mir mit, ob Sie entsprechende Wohnungen in Ihrem Bestand haben und ob eine Besichtigung m\u00f6glich ist. Gerne w\u00fcrde ich auch weitere Informationen zu den Mietkonditionen und zur Verf\u00fcgbarkeit erhalten.\n\nVielen Dank und freundliche Gr\u00fc\u00dfe,\nMax Mustermann",
+            "summary": "- Suche nach einer Wohnung in Z\u00fcrich\n- Interesse an einer Besichtigung\n- Wohnung sollte \u00fcber zwei Schlafzimmer, ein helles Wohnzimmer, eine moderne K\u00fcche und ein Badezimmer mit Badewanne verf\u00fcgen\n- Balkon oder Terrasse w\u00e4ren w\u00fcnschenswert\n- B",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Anfrage: M\u00f6blierte Wohnung in Z\u00fcrich",
+            "sender_email": "lisa.musterfrau@example.com",
+            "date": "2023-06-29",
+            "time": "14:00",
+            "message": "Guten Tag,\n\nich bin auf der Suche nach einer m\u00f6blierten Wohnung in Z\u00fcrich f\u00fcr einen befristeten Zeitraum von sechs Monaten. Die Wohnung sollte \u00fcber ein Schlafzimmer, eine gut ausgestattete K\u00fcche und ein helles Wohnzimmer verf\u00fcgen. Idealerweise w\u00e4re sie zentral gelegen und gut an den \u00f6ffentlichen Nahverkehr angebunden. Bitte teilen Sie mir mit, ob Sie entsprechende Angebote haben und ob eine Besichtigung m\u00f6glich ist. Ich freue mich auf Ihre R\u00fcckmeldung.\n\nViele Gr\u00fc\u00dfe,\nLisa Musterfrau",
+            "summary": "- Suche nach einer m\u00f6blierten Wohnung in Z\u00fcrich f\u00fcr einen befristeten Zeitraum von sechs Monaten\n- Wohnung sollte \u00fcber ein Schlafzimmer, eine gut ausgestattete K\u00fcche und ein helles Wohnzimmer verf\u00fcgen\n- Idealerweise zentral gelegen und gut an den \u00f6",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Anfrage: Studio-Apartment in Z\u00fcrich-West",
+            "sender_email": "max.mustermann@example.com",
+            "date": "2023-06-30",
+            "time": "10:30",
+            "message": "Sehr geehrtes Team,\n\nich interessiere mich f\u00fcr ein Studio-Apartment in Z\u00fcrich-West. Die Wohnung sollte \u00fcber eine moderne Ausstattung, eine gute Verkehrsanbindung und eine ruhige Lage verf\u00fcgen. Ich ben\u00f6tige die Wohnung ab dem 1. August f\u00fcr einen Zeitraum von mindestens einem Jahr. K\u00f6nnten Sie mir bitte Informationen zu verf\u00fcgbaren Optionen und Mietkonditionen zusenden? Gerne w\u00fcrde ich auch einen Besichtigungstermin vereinbaren.\n\nMit freundlichen Gr\u00fc\u00dfen,\nMax Mustermann",
+            "summary": "- Interesse an einem Studio-Apartment in Z\u00fcrich-West\n- Moderne Ausstattung\n- Gute Verkehrsanbindung\n- Ruhige Lage\n- Mietbeginn ab dem 1. August f\u00fcr mindestens ein Jahr\n- Ben\u00f6tigt Informationen zu verf\u00fcgbaren Optionen und Mietkonditionen\n- M\u00f6chte gerne e",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Suche nach einem Einfamilienhaus in Z\u00fcrich",
+            "sender_email": "lisa.beispiel@example.com",
+            "date": "2023-06-30",
+            "time": "14:45",
+            "message": "Guten Tag,\n\nich bin auf der Suche nach einem Einfamilienhaus in Z\u00fcrich und m\u00f6chte gerne Informationen zu verf\u00fcgbaren Optionen erhalten. Das Haus sollte \u00fcber mindestens drei Schlafzimmer, einen Garten und eine Garage verf\u00fcgen. Eine gute Anbindung an \u00f6ffentliche Verkehrsmittel und Einkaufsm\u00f6glichkeiten w\u00e4re ebenfalls wichtig. K\u00f6nnten Sie mir bitte eine Liste der verf\u00fcgbaren H\u00e4user zusenden und mir weitere Informationen zu den Miet- oder Kaufkonditionen geben?\n\nVielen Dank im Voraus!\nLisa Beispiel",
+            "summary": "- Suche nach einem Einfamilienhaus in Z\u00fcrich\n- Mindestens drei Schlafzimmer, Garten und Garage\n- Gute Anbindung an \u00f6ffentliche Verkehrsmittel und Einkaufsm\u00f6glichkeiten\n- Bitte Liste der verf\u00fcgbaren H\u00e4user zusenden\n- Weitere Informationen zu Miet- o",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Anfrage zu einer m\u00f6blierten Wohnung in Z\u00fcrich",
+            "sender_email": "max.mustermann@example.com",
+            "date": "2023-06-30",
+            "time": "15:20",
+            "message": "Sehr geehrtes Team,\n\nich bin auf der Suche nach einer m\u00f6blierten Wohnung in Z\u00fcrich f\u00fcr einen Zeitraum von drei Monaten. Die Wohnung sollte \u00fcber ein Schlafzimmer, ein Wohnzimmer und eine voll ausgestattete K\u00fcche verf\u00fcgen. Zudem w\u00e4re es w\u00fcnschenswert, wenn sich die Wohnung in der N\u00e4he von \u00f6ffentlichen Verkehrsmitteln befindet und gute Einkaufsm\u00f6glichkeiten in der Umgebung vorhanden sind. K\u00f6nnten Sie mir bitte Informationen zu verf\u00fcgbaren Wohnungen, Mietkosten und dem genauen Standort zusenden?\n\nVielen Dank im Voraus!\nMax Mustermann",
+            "summary": "- Suche nach einer m\u00f6blierten Wohnung in Z\u00fcrich f\u00fcr einen Zeitraum von drei Monaten\n- Wohnung sollte \u00fcber ein Schlafzimmer, ein Wohnzimmer und eine voll ausgestattete K\u00fcche verf\u00fcgen\n- Wohnung sollte sich in der N\u00e4he von \u00f6ffentlichen Verke",
+            "predicted_category": "Verf\u00fcgbarkeit und Preise"
+        },
+        {
+            "subject": "Suche nach einer Gewerbeimmobilie in Z\u00fcrich",
+            "sender_email": "lisa.meier@example.com",
+            "date": "2023-06-30",
+            "time": "16:45",
+            "message": "Sehr geehrtes Team,\n\nich plane die Er\u00f6ffnung eines neuen Gesch\u00e4fts in Z\u00fcrich und bin auf der Suche nach einer passenden Gewerbeimmobilie. Die Immobilie sollte \u00fcber ausreichend Platz f\u00fcr B\u00fcro- und Lagerfl\u00e4chen verf\u00fcgen und gut erreichbar sein. Zudem w\u00e4re es hilfreich, wenn Parkm\u00f6glichkeiten in der N\u00e4he vorhanden sind. K\u00f6nnten Sie mir bitte Informationen zu verf\u00fcgbaren Gewerbeimmobilien, Mietkosten und Lagevorteilen zusenden?\n\nVielen Dank und freundliche Gr\u00fc\u00dfe,\nLisa Meier",
+            "summary": "- Er\u00f6ffnung eines neuen Gesch\u00e4fts in Z\u00fcrich\n- Suche nach einer passenden Gewerbeimmobilie\n- Immobilie sollte \u00fcber ausreichend Platz f\u00fcr B\u00fcro- und Lagerfl\u00e4chen verf\u00fcgen und gut erreichbar sein\n- Parkm\u00f6glichkeiten in der N\u00e4he w\u00e4ren h",
+            "predicted_category": "Objektanfragen"
+        }
+    ]
+}
