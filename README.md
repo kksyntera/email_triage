@@ -1,8 +1,8 @@
 # Syntera Workhop ♥️ 
 
-# E-Mail-Triage-Code
+# Anfragen Triage-Code
 
-Dieses Repository enthält den Code für das E-Mail-Triage-Projekt, bei dem E-Mails anhand ihrer Kategorien klassifiziert und zusammengefasst werden.
+Dieses Repository enthält den Code für das Anfragen-Triage-Projekt, bei dem Anfragen anhand ihrer Kategorien klassifiziert und zusammengefasst werden.
 
 ## Vorraussetzungen
 
@@ -11,10 +11,4 @@ Dieses Repository enthält den Code für das E-Mail-Triage-Projekt, bei dem E-Ma
 
 ## Nutzung
 
-1. Klonen Sie das Repository:
-
-   ```shell
-   git clone https://github.com/kksyntera/email-triage.git
-
-
---- stepst
+1. Öffnen Sie das Repository mit Codespaces:
