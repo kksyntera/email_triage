@@ -171,5 +171,151 @@
         "time": "16:45",
         "message": "Sehr geehrtes Team,\n\nich plane die Eröffnung eines neuen Geschäfts in Zürich und bin auf der Suche nach einer passenden Gewerbeimmobilie. Die Immobilie sollte über ausreichend Platz für Büro- und Lagerflächen verfügen und gut erreichbar sein. Zudem wäre es hilfreich, wenn Parkmöglichkeiten in der Nähe vorhanden sind. Könnten Sie mir bitte Informationen zu verfügbaren Gewerbeimmobilien, Mietkosten und Lagevorteilen zusenden?\n\nVielen Dank und freundliche Grüße,\nLisa Meier"
       }
+
+,
+      {
+        "subject": "Anfrage zur Verfügbarkeit und Preise für Mietwohnungen",
+        "sender_email": "michael.schulz@example.com",
+        "date": "2023-06-30",
+        "time": "17:15",
+        "message": "Guten Tag,\n\nich interessiere mich für eine Mietwohnung in Zürich und würde gerne mehr Informationen zur Verfügbarkeit und den Preisen erhalten. Ich suche eine 3-Zimmer-Wohnung in einem ruhigen Viertel mit guter Verkehrsanbindung. Könnten Sie mir bitte Auskunft darüber geben, ob aktuell Wohnungen zur Verfügung stehen und welche monatlichen Mietkosten zu erwarten sind?\n\nVielen Dank und freundliche Grüße,\nMichael Schulz"
+      }
+    
+   ,   
+      {
+        "subject": "Anfrage zu den Preisen für Gewerbeimmobilien",
+        "sender_email": "anna.meyer@example.com",
+        "date": "2023-06-30",
+        "time": "18:30",
+        "message": "Sehr geehrtes Team,\n\nich interessiere mich für Gewerbeimmobilien in Zürich und würde gerne Informationen über die aktuellen Preise erhalten. Wir benötigen eine Bürofläche von etwa 200 Quadratmetern in zentraler Lage. Könnten Sie mir bitte mitteilen, welche Preisspanne für solche Gewerbeimmobilien in Frage kommt und ob momentan passende Objekte verfügbar sind?\n\nVielen Dank im Voraus und mit freundlichen Grüßen,\nAnna Meyer"
+      }
+    ,  
+      {
+        "subject": "Anfrage zur Verfügbarkeit einer Gewerbeimmobilie",
+        "sender_email": "lisa.schneider@example.com",
+        "date": "2023-06-30",
+        "time": "14:30",
+        "message": "Sehr geehrtes Team,\n\nich bin auf der Suche nach einer Gewerbeimmobilie für mein neues Geschäft in Zürich. Es handelt sich um einen Einzelhandelsladen mit einer Fläche von etwa 100 Quadratmetern. Könnten Sie mir bitte Informationen zur Verfügbarkeit geeigneter Gewerbeimmobilien und den entsprechenden Mietkosten zusenden? Ich benötige die Immobilie ab September 2023.\n\nVielen Dank im Voraus!\nMit freundlichen Grüßen,\nLisa Schneider"
+      }
+    ,
+      
+      {
+        "subject": "Anfrage zu den Mietkonditionen einer Wohnung",
+        "sender_email": "max.mustermann@example.com",
+        "date": "2023-06-29",
+        "time": "09:45",
+        "message": "Sehr geehrtes Vermietungsteam,\n\nich interessiere mich für eine Wohnung in Zürich und würde gerne mehr über die Mietkonditionen erfahren. Könnten Sie mir bitte Informationen zu den verfügbaren Wohnungen, den monatlichen Mietpreisen und den erforderlichen Unterlagen für die Anmietung zusenden? Ich benötige eine Wohnung mit mindestens zwei Schlafzimmern und einem Balkon.\n\nVielen Dank und freundliche Grüße,\nMax Mustermann"
+      }
+    ,
+      
+      {
+        "subject": "Anfrage zur Mietpreisliste für Wohnungen",
+        "sender_email": "muster@mietinteressent.com",
+        "date": "2023-06-28",
+        "time": "10:15",
+        "message": "Sehr geehrtes Vermietungsteam,\n\nich interessiere mich für eine Wohnung in der Region Zürich und möchte gerne die aktuellen Mietpreise erfahren. Könnten Sie mir bitte eine Mietpreisliste für Ihre verfügbaren Wohnungen zusenden? Es wäre auch hilfreich, wenn Sie Angaben zu den Größen der Wohnungen und den enthaltenen Leistungen machen könnten. Ich freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen,\nMax Mustermann"
+      }
+    ,
+      {
+        "subject": "Anfrage zur Verfügbarkeit eines Gewerberaums",
+        "sender_email": "muster@firma.com",
+        "date": "2023-06-29",
+        "time": "14:30",
+        "message": "Guten Tag,\n\nwir sind ein kleines Unternehmen auf der Suche nach einem Gewerberaum in Zürich. Könnten Sie uns bitte Informationen zur Verfügbarkeit Ihrer Gewerberäume zusenden? Wir benötigen einen Raum mit einer Fläche von etwa 100 Quadratmetern, idealerweise in zentraler Lage. Falls möglich, geben Sie uns bitte auch Informationen zu den Mietkosten und den Vertragsbedingungen. Vielen Dank im Voraus.\n\nFreundliche Grüße,\nHans Meier"
+      }
+    ,
+      {
+        "subject": "Anfrage zu den Mietpreisen für Wohnungen",
+        "sender_email": "max.mustermann@example.com",
+        "date": "2023-06-30",
+        "time": "09:45",
+        "message": "Sehr geehrtes Team,\n\nich bin auf der Suche nach einer Wohnung in Zürich und interessiere mich für die aktuellen Mietpreise in Ihrem Wohnkomplex. Könnten Sie mir bitte Informationen zu den verfügbaren Wohnungen und den entsprechenden Mietkosten zusenden? Ich suche eine Wohnung mit mindestens zwei Schlafzimmern und einer Balkon oder Terrasse. Vielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen,\nMax Mustermann"
+      }
+    ,
+      {
+        "subject": "Anfrage zur Verfügbarkeit eines Bürogebäudes",
+        "sender_email": "anna.musterfrau@example.com",
+        "date": "2023-06-30",
+        "time": "10:30",
+        "message": "Guten Tag,\n\nich arbeite für ein Unternehmen, das auf der Suche nach einem neuen Bürogebäude in Zürich ist. Wir haben Interesse an Ihrem Gebäude und würden gerne die Verfügbarkeit prüfen. Könnten Sie uns bitte Informationen zu den verfügbaren Büroflächen, den Mietkonditionen und eventuellen Nebenkosten zukommen lassen? Gerne würden wir auch einen Besichtigungstermin vereinbaren, um uns einen besseren Eindruck von dem Gebäude zu verschaffen. Vielen Dank und beste Grüße,\nAnna Musterfrau"
+      }
+    ,
+      
+      {
+        "subject": "Anfrage zu den Mietpreisen einer Wohnung",
+        "sender_email": "max.mustermann@example.com",
+        "date": "2023-06-28",
+        "time": "14:15",
+        "message": "Sehr geehrtes Team,\n\nich interessiere mich für eine Wohnung in Zürich und würde gerne mehr über die Mietpreise erfahren. Könnten Sie mir bitte Informationen zu den aktuellen Mietpreisen für 2- bis 3-Zimmer-Wohnungen in Ihrer Wohnanlage zukommen lassen? Gibt es unterschiedliche Preisgestaltungen je nach Stockwerk oder Ausstattung der Wohnung? Über eine zeitnahe Rückmeldung würde ich mich freuen. Vielen Dank und freundliche Grüße,\nMax Mustermann"
+      }
+    ,
+      {
+        "subject": "Anfrage zur Verfügbarkeit eines Bürogebäudes",
+        "sender_email": "anna.musterfrau@example.com",
+        "date": "2023-06-29",
+        "time": "09:30",
+        "message": "Hallo,\n\nich interessiere mich für ein Bürogebäude in Zürich und würde gerne wissen, ob aktuell Flächen zur Verfügung stehen. Könnten Sie mir bitte Informationen zur Verfügbarkeit und den Mietkonditionen zusenden? Ich suche nach einer Bürofläche von etwa 200 Quadratmetern. Gibt es auch die Möglichkeit, die Räumlichkeiten zu besichtigen? Über eine Rückmeldung würde ich mich freuen. Vielen Dank und beste Grüße,\nAnna Musterfrau"
+      }
+     , 
+    
+      {
+        "subject": "Anfrage zu den Preisen für Mietwohnungen",
+        "sender_email": "max.mustermann@example.com",
+        "date": "2023-06-30",
+        "time": "14:15",
+        "message": "Guten Tag,\n\nich bin auf der Suche nach einer Mietwohnung in Zürich und würde gerne Informationen zu den aktuellen Preisen erhalten. Welche Wohnungsgrößen bieten Sie an und wie hoch sind die Mietkosten? Gibt es derzeit Sonderangebote oder besondere Konditionen? Falls möglich, würde ich gerne eine Besichtigungstermin vereinbaren. Über eine Rückmeldung würde ich mich freuen. Vielen Dank und freundliche Grüße,\nMax Mustermann"
+      }
+      ,
+      {
+        "subject": "Anfrage zur Verfügbarkeit von Büroflächen",
+        "sender_email": "lisa.musterfrau@example.com",
+        "date": "2023-06-30",
+        "time": "16:30",
+        "message": "Sehr geehrtes Team,\n\nich interessiere mich für Büroflächen in Zürich und würde gerne Informationen zur aktuellen Verfügbarkeit erhalten. Welche Bürogrößen stehen derzeit zur Verfügung und zu welchen Preisen? Gibt es besondere Serviceleistungen oder zusätzliche Ausstattungsoptionen? Ich plane einen Umzug in den nächsten Monaten und würde gerne weitere Details besprechen. Über eine zeitnahe Rückmeldung würde ich mich freuen. Vielen Dank und beste Grüße,\nLisa Musterfrau"
+      }
+    ,
+    
+      {
+        "subject": "Preisanfrage für Mietwohnungen",
+        "sender_email": "max.mustermann@example.com",
+        "date": "2023-06-30",
+        "time": "17:15",
+        "message": "Sehr geehrtes Vermietungsteam,\n\nich interessiere mich für Mietwohnungen in Zürich und würde gerne Informationen zu den aktuellen Preisen erhalten. Welche Wohnungsgrößen stehen derzeit zur Verfügung und zu welchen monatlichen Mietkosten? Sind Nebenkosten in den Preisen enthalten oder fallen zusätzliche Gebühren an? Ich plane meinen Umzug in den nächsten Monaten und benötige diese Informationen, um meine finanzielle Planung voranzutreiben. Über eine schnelle Rückmeldung würde ich mich sehr freuen. Vielen Dank im Voraus und beste Grüße,\nMax Mustermann"
+      }
+     , 
+    
+      {
+        "subject": "Anfrage zu aktuellen Mietpreisen",
+        "sender_email": "julia.schulz@example.com",
+        "date": "2023-06-30",
+        "time": "18:30",
+        "message": "Guten Tag,\n\nich bin auf der Suche nach einer Wohnung in Zürich und interessiere mich für die aktuellen Mietpreise. Könnten Sie mir bitte Informationen zu den verfügbaren Mietobjekten und den dazugehörigen Preisen zusenden? Ich bevorzuge Wohnungen mit 2 Schlafzimmern und einem Balkon. Welche Zusatzkosten fallen neben der monatlichen Miete an? Ich freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen,\nJulia Schulz"
+      }
+      ,
+    
+      {
+        "subject": "Anfrage zur Verfügbarkeit eines Apartments",
+        "sender_email": "alexander.huber@example.com",
+        "date": "2023-06-30",
+        "time": "19:45",
+        "message": "Sehr geehrte Damen und Herren,\n\nich interessiere mich für ein Apartment in Zürich und möchte gerne die Verfügbarkeit prüfen. Könnten Sie mir bitte mitteilen, ob aktuell ein Apartment mit 3 Schlafzimmern und Blick auf den See verfügbar ist? Falls ja, würden mich auch die Preise und eventuelle Nebenkosten interessieren. Vielen Dank im Voraus für Ihre Unterstützung.\n\nMit freundlichen Grüßen,\nAlexander Huber"
+      }
+      ,
+      {
+        "subject": "Anfrage zu den Mietkosten",
+        "sender_email": "sarah.mueller@example.com",
+        "date": "2023-06-30",
+        "time": "20:15",
+        "message": "Guten Abend,\n\nich bin sehr interessiert an einem Apartment in Zürich und würde gerne mehr über die Mietkosten erfahren. Könnten Sie mir bitte Informationen zu den monatlichen Mietkosten sowie eventuellen Nebenkosten geben? Zusätzlich würde ich gerne wissen, ob es derzeit spezielle Angebote oder Rabatte gibt. Vielen Dank im Voraus für Ihre Hilfe.\n\nMit freundlichen Grüßen,\nSarah Müller"
+      }
+    ,
+      {
+        "subject": "Anfrage zur Verfügbarkeit",
+        "sender_email": "max.mustermann@example.com",
+        "date": "2023-06-29",
+        "time": "10:30",
+        "message": "Hallo,\n\nich interessiere mich für ein Apartment in Zürich und wollte fragen, ob es derzeit verfügbar ist. Könnten Sie mir bitte Informationen zur aktuellen Verfügbarkeit geben? Ich würde gerne wissen, ab welchem Zeitpunkt das Apartment verfügbar ist und ob es auch langfristige Optionen gibt. Vielen Dank im Voraus für Ihre Hilfe.\n\nViele Grüße,\nMax Mustermann"
+      }
+      
     ]
       }
